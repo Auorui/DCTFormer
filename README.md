@@ -1,5 +1,5 @@
-# DCTFormer
-DCTFormer
+# PGS²-Net
+PGS²-Net
 
 Due to the length of the paper, we have abandoned some experimental demonstrations, but we have provided the complete experimental content in our Github repository
 
